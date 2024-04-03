@@ -1,0 +1,79 @@
+body{
+    background-image: url('https://i.pinimg.com/564x/12/6f/5c/126f5ce44ae437f4200d8d3d54e30c9a.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header {
+    background-color: #bca3bc;
+    padding: 15px;
+    text-align: center;
+}
+
+header h1 {
+    font-family: cursive;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 30px;
+    color: #3d343e;
+}
+
+table{
+    display: inline-block;
+}
+td{
+    background-color: rgba(255, 192, 203, 0.252); 
+}
+#jdl{
+    color:black;
+    text-align: center;
+}
+#anggota {
+    width: 100px;
+    display: inline-block;
+}
+#mnama{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+#mlatin{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+#mhabitat{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+#makna {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    max-width: 200px;
+}
+#arti {
+    word-wrap: break-word; 
+    max-width: 300px;
+}
+.left-div{
+    width: 100px;
+    display: inline-block;
+}
+.right-div{
+    display: inline-block;
+}
